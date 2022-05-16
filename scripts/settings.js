@@ -164,7 +164,7 @@ async function initSdk(name) {
      */
     var chatWidgetSettings = {
       URI: "oda-27ac513e872642dc9984fe27bd60a41d-da10.data.digitalassistant.oci.oraclecloud.com",
-      channelId: "19b6fe46-3081-4688-8002-58df001a63ed ",
+      channelId: "19b6fe46-3081-4688-8002-58df001a63ed",
       initUserHiddenMessage: "Oi",
       initMessageOptions: {
         sendAt: "expand",
